@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Visit https://github.com/telexyz to know what i'm doing.
 <!--
 **tiendung/tiendung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
